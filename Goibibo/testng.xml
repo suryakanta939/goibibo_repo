@@ -1,0 +1,8 @@
+<suite name="Advance reporting">
+<test name="GoIbibo">
+<classes>
+    <class name="TestScripts.Flights"/>
+    <class name="TestScripts.Flights1"/>
+</classes>
+</test>
+</suite>

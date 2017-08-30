@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Advance reporting]">
+  <test name="GoIbibo(failed)">
+    <classes>
+      <class name="TestScripts.Flights1">
+        <methods>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="function"/>
+        </methods>
+      </class> <!-- TestScripts.Flights1 -->
+      <class name="TestScripts.Flights">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestScripts.Flights -->
+    </classes>
+  </test> <!-- GoIbibo(failed) -->
+</suite> <!-- Failed suite [Advance reporting] -->
